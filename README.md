@@ -6,3 +6,4 @@ Este projeto investiga o comportamento do preço do Bitcoin em torno dos eventos
 Dados Utilizados
 
 - Dataset: `btcusd_1-min_data.csv` (Kaggle)
+https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data
